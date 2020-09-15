@@ -1,0 +1,3 @@
+const each = (array, callback) => {
+  
+}
